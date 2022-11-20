@@ -1,4 +1,4 @@
-return Template = {
+{
 	["SwimAnimation"]  =  0,
 	["RunAnimation"]   =  0,
 	["ClimbAnimation"] =  0,
